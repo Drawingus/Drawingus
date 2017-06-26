@@ -1,0 +1,29 @@
+body{
+	font-family:"Arial";
+	margin:0 auto;
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+a:hover{
+	color:green;
+}
+.nav{
+	border-style: solid;
+	border-right-style: none;
+	border-left-style: none;
+	border-width: 2px;
+	background-color: teal;
+}
+.nav li{
+	display:inline;
+	padding:20px;
+	padding-right: 50px;
+	line-height:55px;
+
+}
+
+#intro{
+	font-size: 12pt;
+}
